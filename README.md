@@ -1,1 +1,1 @@
-# LivroReceitas
+Aplicação que realiza o cadastro de receitas e seus ingredientes, cadastra ingredientes em estoque, permite listar e editar receitas cadastradas e ingredientes em estoque e consultar quais receitas são 100% possíveis de serem feitas com os ingredientes em estoque e quais são parcialmente possíveis. 
